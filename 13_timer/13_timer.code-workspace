@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cdev.h": "c",
+			"of.h": "c",
+			"of_address.h": "c",
+			"timer.h": "c"
+		}
+	}
+}

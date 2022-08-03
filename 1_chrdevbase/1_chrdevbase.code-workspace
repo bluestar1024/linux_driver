@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"types.h": "c",
+			"ide.h": "c",
+			"interrupt.h": "c",
+			"hardirq.h": "c",
+			"irq.h": "c",
+			"init.h": "c",
+			"module.h": "c",
+			"int-ll64.h": "c",
+			"posix_types.h": "c",
+			"stddef.h": "c",
+			"compiler.h": "c",
+			"bitsperlong.h": "c",
+			"kernel.h": "c",
+			"printk.h": "c",
+			"fs.h": "c"
+		}
+	}
+}

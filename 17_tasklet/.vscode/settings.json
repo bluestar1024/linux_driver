@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cdev.h": "c",
+        "of.h": "c",
+        "of_address.h": "c",
+        "interrupt.h": "c"
+    }
+}

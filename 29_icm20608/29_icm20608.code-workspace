@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cdev.h": "c",
+			"of.h": "c",
+			"of_address.h": "c",
+			"interrupt.h": "c",
+			"string.h": "c",
+			"ide.h": "c",
+			"blkdev.h": "c",
+			"sched.h": "c",
+			"cred.h": "c",
+			"key.h": "c",
+			"time.h": "c",
+			"of_irq.h": "c",
+			"platform_device.h": "c",
+			"miscdevice.h": "c",
+			"i2c.h": "c",
+			"err.h": "c",
+			"delay.h": "c",
+			"fstream": "c",
+			"system_error": "c",
+			"array": "c",
+			"functional": "c",
+			"tuple": "c",
+			"type_traits": "c",
+			"utility": "c"
+		}
+	}
+}

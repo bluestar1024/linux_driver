@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"uaccess.h": "c",
+			"io.h": "c",
+			"page.h": "c",
+			"page-nommu.h": "c",
+			"memory.h": "c",
+			"getorder.h": "c",
+			"log2.h": "c",
+			"bitops.h": "c",
+			"types.h": "c",
+			"int-ll64.h": "c",
+			"bitsperlong.h": "c"
+		}
+	}
+}
